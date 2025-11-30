@@ -40,5 +40,5 @@ Importance of cross-validation for reliable evaluation.
 
 Hands-on experience in model selection and reporting insights.
 
-Technologies:
+**Technologies:**
 Python | pandas | scikit-learn | matplotlib | numpy
